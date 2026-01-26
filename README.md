@@ -1,4 +1,4 @@
-I make random stuff • CS student (Java & Theoretical)
+I make random stuff • I indulge in Python and visual analyzing
 
 I do small Arduino projects here and there (:
 
