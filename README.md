@@ -2,9 +2,6 @@ I make random stuff • I indulge in Python and visual analyzing
 
 I do small Arduino projects here and there (:
 
-I got my own ADS-B antenna @ https://quackbots.xyz/combine1090/
-<sub><sup>(Obfuscated location)</sup></sub>
-
 Sometimes I just need ideas...
 <!--
 **TheServerit/TheServerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
