@@ -1,5 +1,8 @@
-## Hi there 👋
+I make things in Python
 
+I play around with Arduino from time to time
+
+Sometimes I just need ideas...
 <!--
 **TheServerit/TheServerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
